@@ -50,6 +50,10 @@ LANGUAGE ~Simplified Chinese~
 	     ~zh_CN~
 	     ~iwd_eet_end/lang/zh_CN/mod.tra~
 	     ~iwd_eet_end/lang/zh_CN/chapters.tra~
+LANGUAGE ~Japanese~
+	     ~ja_JP~
+	     ~iwd_eet_end/lang/ja_JP/mod.tra~
+	     ~iwd_eet_end/lang/ja_JP/chapters.tra~
 
 BEGIN ~IWD_EET_End~
 
